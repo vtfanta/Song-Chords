@@ -12,7 +12,7 @@ Seznam položek:
 - [ ] Hallellujah, Barel
 - [ ] Holubí dům
 - [ ] Hráz
-- [ ] Chlouba, houba
+- [x] Chlouba, houba
 - [ ] Jasná zpráva
 - [ ] Jdem zpátky do lesů
 - [x] Jožin z bažin

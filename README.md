@@ -43,7 +43,7 @@ Seznam položek:
 - [ ] Tota Heĺpa
 - [ ] Tři citrónky
 - [ ] tři citrónky
-- [ ] Tři kříže
+- [x] Tři kříže
 - [ ] Už to nenapravím
 - [ ] Vlaštovko, leť
 - [ ] Voda se neutopí

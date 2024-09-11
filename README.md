@@ -35,7 +35,7 @@ Seznam položek:
 - [ ] Pro malou Lenku
 - [ ] Představte si, co jsem měl dnes k obědu
 - [ ] Rána v trávě
-- [ ] Severní vítr
+- [x] Severní vítr
 - [x] Skládanka
 - [ ] Stánky
 - [ ] Stýskání

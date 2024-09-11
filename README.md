@@ -50,6 +50,6 @@ Seznam položek:
 - [ ] Voda, voda ako z Bodroga
 - [ ] Whiskey, to je moje gusto
 - [ ] Všech vandráků múza
-- [ ] Zdenasong
+- [x] Zdenasong
 - [x] Zkratky
 - [x] Žádnyj neví, co sou Domažlice

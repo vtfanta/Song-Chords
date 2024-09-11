@@ -1,6 +1,7 @@
 {title: Kousavá deka}
 {composer: Ivan Mládek}
 {artist: Jan Mrázek}
+{key: Cm}
 
 [Cmi]Do svítání [G7]setrvávám [Cmi]na potlachu,
 [C7]ke spánku se odebírám [Fmi]plný strachu.
@@ -12,7 +13,7 @@
 [G7]Za to máš teď kousance i [Cmi]kolem žeber.
 [D]Takovou si na osadu [G7]nikdy neber.“
 
-{soc: Refrén}
+{soc:Refrén}
 [Cmi]Kousavá deka, [Fmi]kusadlama seká,
 [B]když pod ní spočí[Es]vám.[G7]
 [C7]Kousavá deka, [Fmi]ta na mě čeká.
@@ -34,14 +35,4 @@
 [G7]Kamarádi celé noci [Cmi]krásně prosní,
 [D]já mám deku kousavou a [G7]nevím co s ní.
 
-{soc: Refrén}
-[Cmi]Kousavá deka, [Fmi]kusadlama seká,
-[B]když pod ní spočí[Es]vám.[G7]
-[Cmi]Kousavá deka, [Fmi]ta na mě čeká.
-[G7]Osada spí a já se oší[Cmi]vám.
-
-[C7]Kousavá deka, [Fmi]kousavá deka,
-[B]kdo ji neměl ví starou [Es]belu.[G7]
-[Cmi]Kousavá deka, [Fmi]ta na mě čeká.
-[G7]Osada spí a já se pod ní [Cmi]melu.
-{eoc:}
+{chorus}

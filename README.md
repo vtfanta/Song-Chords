@@ -3,6 +3,7 @@ Seznam položek:
 - [ ] Andělská
 - [ ] Babetta
 - [ ] Batallion
+- [ ] Bedna od whisky
 - [ ] Bodláky ve vlasech
 - [ ] Cesta
 - [ ] Červená řeka
@@ -26,7 +27,7 @@ Seznam položek:
 - [ ] Montgomery
 - [ ] Muzikantova písnička
 - [ ] Na dvojhlas
-- [ ] Na tu svatú Katerínu
+- [x] Na tu svatú Katerínu
 - [ ] Okoř
 - [ ] Pavouček
 - [ ] Písek
@@ -48,7 +49,7 @@ Seznam položek:
 - [ ] Vlaštovko, leť
 - [ ] Voda se neutopí
 - [ ] Voda, voda ako z Bodroga
-- [ ] Whiskey, to je moje gusto
+- [ ] Whisky, to je moje gusto
 - [ ] Všech vandráků múza
 - [x] Zdenasong
 - [x] Zkratky

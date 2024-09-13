@@ -6,7 +6,7 @@ Seznam položek:
 - [ ] Bedna od whisky
 - [ ] Bodláky ve vlasech
 - [ ] Cesta
-- [ ] Červená řeka
+- [x] Červená řeka
 - [ ] Dělání
 - [ ] Dokud se zpívá
 - [ ] Gustav

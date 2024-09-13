@@ -29,7 +29,7 @@ Seznam položek:
 - [ ] Na dvojhlas
 - [x] Na tu svatú Katerínu
 - [ ] Okoř
-- [ ] Pavouček
+- [x] Pavouček
 - [ ] Písek
 - [ ] Poutník a dívka
 - [ ] Pramínek vlasů

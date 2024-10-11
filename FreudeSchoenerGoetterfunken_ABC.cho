@@ -1,0 +1,35 @@
+{t:Freude schöner Götterfunken}
+{st:Ode an die Freude (aus der 9. Symphonie)}
+{st:M: Ludwig van Beethoven, T: Friedrich Schiller}
+#CPCHe_19_MuseJazzText.json
+#
+#{c:%%pagescale damit mehr Takte auf eine Zeile passen}
+#{c:oder width=   default von ChordPro ist 515}
+[F]
+#{start_of_abc width=545}
+{start_of_abc}
+%%pagescale 0.94
+X:1
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+%%stretchlast 1
+"F" A A B c |"C" c B A G |"Dm" F F"C" G A |"F" A3/2 G/"C" G2 |$"F" A A B c |"C" c B A G | %6
+w: Freu- de, schö- ner|Göt- ter- funk- en,|Toch- ter aus E-|ly- si- um,|Wir be- tre- ten,|feu- er- trunk- en,|
+"Dm" F F"C" G"F" A |"C" G3/2 F/"F" F2 |$"C" G G"F" A F |"C" G A/B/"F" A F |"C" G A/B/"F" A G | %11
+w: himm- li- sche, dein|Hei- lig- tum!|Dei- ne Zau- ber|bin- den * wie- der|was die * Mo- de|
+"Dm" F"G7" G"C7" C2 |$"F" A A B c |"C" c B A G |"Dm" F F"C" G"F" A |"C7" G3/2 F/"F" F2 |] %16
+w: streng ge- teilt;|Al- le Men- schen|wer- den Brü- der|wo dein~  sanf- ter|Flü- gel weilt!|
+
+{end_of_abc}
+
+[F]Wem der große [C]Wurf gelungen, [Dm]eines [C]Freundes [F]Freund zu [C]sein,
+[F]wer ein holdes [C]Weib errungen, [Dm]mische [C]sei[F]nen [C]Jubel [F]ein!
+[C]Ja, wer [F]auch nur [C]eine [F]Seele [C]sein nennt [F]auf dem [Dm]Er[G7]den[C7]rund!
+[F]Und wer's [C]nie gekonnt, der stehle [Dm]weinend [C]sich [F]aus [C7]diesem [F]Bund!
+
+Freude heißt die starke Feder in der ewigen Natur.
+Freude, Freude treibt die Räder in der großen Weltenuhr.
+Blumen lockt sie aus den Keimen, Sonnen aus dem Firmament,
+Sphären rollt sie in den Räumen, die des Sehers Rohr nicht kennt.

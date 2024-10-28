@@ -11,7 +11,7 @@ Seznam položek:
 - [ ] Dokud se zpívá
 - [ ] Gustav
 - [ ] Hallellujah, Barel
-- [ ] Holubí dům
+- [x] Holubí dům
 - [ ] Hráz
 - [x] Chlouba, houba
 - [ ] Jasná zpráva

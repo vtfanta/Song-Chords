@@ -9,7 +9,7 @@ Seznam položek:
 - [x] Červená řeka
 - [ ] Dělání
 - [ ] Dokud se zpívá
-- [ ] Gustav
+- [x] Gustav
 - [ ] Hallellujah, Barel
 - [x] Holubí dům
 - [ ] Hráz

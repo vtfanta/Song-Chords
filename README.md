@@ -3,6 +3,7 @@ Seznam položek:
 - [ ] Andělská
 - [ ] Babetta
 - [ ] Batallion
+- [x] Báječná ženská
 - [ ] Bedna od whisky
 - [ ] Bodláky ve vlasech
 - [ ] Cesta
